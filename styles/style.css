@@ -301,13 +301,6 @@ form.formulario button:hover{
 
 /* Sabores */
 
-.fondo-fijo{
-    background: url(/assets/Imagenes/FondoFijo.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
 
 .sabores-title{
     text-align: center;
@@ -356,13 +349,6 @@ article{
 
 /* Sucursal */
 
-.fondo-fijo{
-    background: url(/assets/Imagenes/FondoFijo.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
 
 .info-sucursal {
     text-align: center;
