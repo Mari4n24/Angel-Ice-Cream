@@ -96,12 +96,13 @@ body{
     flex-direction: column;
 }
 
-.fondo-fijo{
+body.fondo-fijo{
     background: url(/assets/Imagenes/fondofijo.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-color: #ffc2c7
 }
 
 .contenido{
