@@ -96,6 +96,14 @@ body{
     flex-direction: column;
 }
 
+.fondo-fijo{
+    background: url(/assets/Imagenes/fonfofijo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 .contenido{
     width: 100%;
     flex: 1;
@@ -166,13 +174,6 @@ footer .redes img:hover{
 
 /* Contacto */
 
-.fondo-fijo{
-    background: url(/assets/Imagenes/FondoFijo.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
 
 .contacto{
     display: flex;
